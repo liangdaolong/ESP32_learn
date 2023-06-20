@@ -24,5 +24,6 @@ void app_main(void)
     vTaskDelay(100); //1s
     printf("你好 世界!\n");
     ESP_LOGI("UART","Send done");
+        //手动修改部分
     }
 }
